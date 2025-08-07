@@ -1,0 +1,133 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+    <div class="hero-background">
+        <div class="hero-overlay"></div>
+        <img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80" alt="Car Background" class="hero-bg-image">
+    </div>
+    <div class="hero-content">
+        <div class="hero-text">
+            <h1 class="hero-title">
+                <span class="title-main">Used Car Price</span>
+                <span class="title-accent">Prediction Engine</span>
+            </h1>
+            <p class="hero-subtitle">
+                🚗 Find the perfect used car and get accurate price predictions powered by AI
+            </p>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <div class="stat-number">10K+</div>
+                    <div class="stat-label">Cars Available</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">95%</div>
+                    <div class="stat-label">Accuracy</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">24/7</div>
+                    <div class="stat-label">Support</div>
+                </div>
+            </div>
+            <div class="hero-buttons">
+                <a href="{{ url_for('listings') }}" class="btn btn-primary btn-large">
+                    <i class="fas fa-search"></i>
+                    Browse Cars
+                </a>
+                <a href="{{ url_for('predict') }}" class="btn btn-secondary btn-large">
+                    <i class="fas fa-calculator"></i>
+                    Predict Price
+                </a>
+            </div>
+        </div>
+        <div class="hero-image">
+            <div class="car-showcase">
+                <img src="https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Featured Car" class="showcase-car">
+                <div class="price-badge">
+                    <span class="price-text">Starting from</span>
+                    <span class="price-amount">₹2.5 Lakh</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features">
+    <div class="container">
+        <div class="section-header">
+            <h2>Why Choose Our Platform?</h2>
+            <p>Experience the future of used car buying with our AI-powered platform</p>
+        </div>
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-car"></i>
+                </div>
+                <h3>Extensive Inventory</h3>
+                <p>Browse thousands of verified used cars from trusted dealers across India</p>
+                <div class="feature-stats">
+                    <span class="feature-number">10,000+</span>
+                    <span class="feature-label">Verified Cars</span>
+                </div>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-brain"></i>
+                </div>
+                <h3>AI-Powered Predictions</h3>
+                <p>Get accurate price predictions using advanced machine learning algorithms</p>
+                <div class="feature-stats">
+                    <span class="feature-number">95%</span>
+                    <span class="feature-label">Accuracy Rate</span>
+                </div>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">
+                    <i class="fas fa-shield-alt"></i>
+                </div>
+                <h3>Trusted Platform</h3>
+                <p>Secure transactions and verified car information with 24/7 customer support</p>
+                <div class="feature-stats">
+                    <span class="feature-number">24/7</span>
+                    <span class="feature-label">Support</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="popular-brands">
+    <div class="container">
+        <div class="section-header">
+            <h2>Popular Car Brands</h2>
+            <p>Explore cars from India's most trusted automotive brands</p>
+        </div>
+        <div class="brands-grid">
+            <div class="brand-card">
+                <img src="https://logos-world.net/wp-content/uploads/2021/03/Maruti-Suzuki-Logo.png" alt="Maruti Suzuki">
+                <span>Maruti Suzuki</span>
+            </div>
+            <div class="brand-card">
+                <img src="https://logos-world.net/wp-content/uploads/2021/03/Hyundai-Logo.png" alt="Hyundai">
+                <span>Hyundai</span>
+            </div>
+            <div class="brand-card">
+                <img src="https://logos-world.net/wp-content/uploads/2021/03/Honda-Logo.png" alt="Honda">
+                <span>Honda</span>
+            </div>
+            <div class="brand-card">
+                <img src="https://logos-world.net/wp-content/uploads/2021/03/Toyota-Logo.png" alt="Toyota">
+                <span>Toyota</span>
+            </div>
+            <div class="brand-card">
+                <img src="https://logos-world.net/wp-content/uploads/2021/03/Tata-Logo.png" alt="Tata">
+                <span>Tata</span>
+            </div>
+            <div class="brand-card">
+                <img src="https://logos-world.net/wp-content/uploads/2021/03/Mahindra-Logo.png" alt="Mahindra">
+                <span>Mahindra</span>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

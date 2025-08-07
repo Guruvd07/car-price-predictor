@@ -1,0 +1,644 @@
+Brand,Model,Year,KM Driven,Fuel Type,Transmission,Location,Price (INR)
+Maruti,Celerio ZXI,2024.0,9000,Petrol,Manual,Mumbai,595000.0
+Nissan,Magnite XE,2023.0,40347,Petrol,Manual,Mumbai,496000.0
+Audi,Q3 Sportback 40TFSI Quattro,2024.0,7600,Petrol,Automatic,Mumbai,4700000.0
+Honda,City GXi,2007.0,44000,Petrol,Manual,Mumbai,145000.0
+BMW,X5 xDrive30d xLine,2024.0,13000,Diesel,Automatic,Mumbai,9495000.0
+Audi,Q3 Bold Edition,2024.0,6691,Petrol,Automatic,Mumbai,4450000.0
+Audi,Q3 Premium Plus BSVI,2023.0,18000,Petrol,Automatic,Navi Mumbai,3800000.0
+Mahindra,Bolero B4,2024.0,25200,Diesel,Manual,Thane,1100000.0
+Nissan,Magnite XV BSVI,2022.0,30000,Petrol,Manual,Navi Mumbai,675000.0
+Toyota,Innova 2.5 G (Diesel) 7 Seater BS III,2010.0,150000,Diesel,Manual,Mumbai,380000.0
+Renault,Kiger RXT AMT,2022.0,14090,Petrol,Automatic,Thane,675000.0
+BMW,X3 xDrive20d M Sport,2023.0,21500,Diesel,Automatic,Mumbai,7000000.0
+Hyundai,Exter SX CNG 4 Cylinder,2023.0,30000,CNG,Manual,Thane,890000.0
+Kia,Sonet HTX Turbo DCT,2024.0,7800,Petrol,Automatic,Mumbai,1325000.0
+Kia,Sonet X-line Turbo DCT,2024.0,7304,Petrol,Automatic,Mumbai,1450000.0
+Skoda,Rapid 1.6 MPI Ambition Plus,2014.0,65000,Petrol,Manual,Mumbai,285000.0
+Jeep,Compass 2.0 Sport,2018.0,80000,Diesel,Manual,Mumbai,790000.0
+Renault,Kiger RXT AMT Opt,2021.0,22778,Petrol,Automatic,Thane,625000.0
+Tata,Nexon XZA Plus P AMT,2022.0,32667,Petrol,Automatic,Thane,899000.0
+Kia,Sonet HTK Plus Turbo DCT,2020.0,16357,Petrol,Automatic,Mumbai,890000.0
+Nissan,Magnite XE,2023.0,40347,Petrol,Manual,Mumbai,496000.0
+Renault,Kiger RXT AMT,2022.0,14090,Petrol,Automatic,Thane,675000.0
+Hyundai,Elantra 2.0 SX AT,2017.0,49269,Petrol,Automatic,Thane,825000.0
+MG,Hector Plus Sharp Pro CVT 7 Str,2025.0,4300,Petrol,Automatic,Mumbai,2145000.0
+Hyundai,i20 Sportz Plus BSIV,2019.0,25000,Petrol,Manual,Mumbai,649000.0
+Audi,Q3 Sportback 40TFSI Quattro,2024.0,7600,Petrol,Automatic,Mumbai,4700000.0
+Hyundai,Verna SX IVT Opt,2023.0,15000,Petrol,Automatic,Mumbai,1475000.0
+Mahindra,Thar LX 4WD Hard Top AT BSVI,2022.0,30000,Petrol,Automatic,Mumbai,1425000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2021.0,43000,Diesel,Manual,Mumbai,1450000.0
+MG,Gloster Savvy 7-Str,2021.0,50000,Diesel,Automatic,Mumbai,2950000.0
+Hyundai,Creta 1.6 EX Petrol,2015.0,56686,Petrol,Manual,Mumbai,669000.0
+Volkswagen,Taigun 1.0 TSI Topline AT BSVI,2022.0,36491,Petrol,Automatic,Mumbai,1049000.0
+Audi,A6 35 TDI,2018.0,48191,Diesel,Automatic,Mumbai,2275000.0
+Kia,Sonet HTX Turbo iMT BSVI,2021.0,30370,Petrol,Manual,Mumbai,819999.9999999999
+Kia,Carens Luxury Plus DCT BSVI,2023.0,8911,Petrol,Automatic,Mumbai,1825000.0
+Kia,Seltos GTX Plus Diesel AT,2023.0,29000,Diesel,Automatic,Mumbai,1950000.0
+Jeep,Compass 2.0 Sport,2018.0,80000,Diesel,Manual,Mumbai,790000.0
+Hyundai,IONIQ 5 Long Range RWD,2024.0,11000,Electric,Automatic,Mumbai,3690000.0
+Tata,Nexon XZA Plus P AMT,2022.0,32667,Petrol,Automatic,Thane,899000.0
+Kia,Sonet HTK Plus Turbo DCT,2020.0,16357,Petrol,Automatic,Mumbai,890000.0
+Nissan,Magnite XE,2023.0,40347,Petrol,Manual,Mumbai,496000.0
+Renault,Kiger RXT AMT,2022.0,14090,Petrol,Automatic,Thane,675000.0
+Hyundai,Elantra 2.0 SX AT,2017.0,49269,Petrol,Automatic,Thane,825000.0
+MG,Hector Plus Sharp Pro CVT 7 Str,2025.0,4300,Petrol,Automatic,Mumbai,2145000.0
+Hyundai,i20 Sportz Plus BSIV,2019.0,25000,Petrol,Manual,Mumbai,649000.0
+Audi,Q3 Sportback 40TFSI Quattro,2024.0,7600,Petrol,Automatic,Mumbai,4700000.0
+Hyundai,Verna SX IVT Opt,2023.0,15000,Petrol,Automatic,Mumbai,1475000.0
+Mahindra,Thar LX 4WD Hard Top AT BSVI,2022.0,30000,Petrol,Automatic,Mumbai,1425000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2021.0,43000,Diesel,Manual,Mumbai,1450000.0
+MG,Gloster Savvy 7-Str,2021.0,50000,Diesel,Automatic,Mumbai,2950000.0
+Hyundai,Creta 1.6 EX Petrol,2015.0,56686,Petrol,Manual,Mumbai,669000.0
+Volkswagen,Taigun 1.0 TSI Topline AT BSVI,2022.0,36491,Petrol,Automatic,Mumbai,1049000.0
+Audi,A6 35 TDI,2018.0,48191,Diesel,Automatic,Mumbai,2275000.0
+Kia,Sonet HTX Turbo iMT BSVI,2021.0,30370,Petrol,Manual,Mumbai,819999.9999999999
+Kia,Carens Luxury Plus DCT BSVI,2023.0,8911,Petrol,Automatic,Mumbai,1825000.0
+Kia,Seltos GTX Plus Diesel AT,2023.0,29000,Diesel,Automatic,Mumbai,1950000.0
+Jeep,Compass 2.0 Sport,2018.0,80000,Diesel,Manual,Mumbai,790000.0
+Hyundai,IONIQ 5 Long Range RWD,2024.0,11000,Electric,Automatic,Mumbai,3690000.0
+Tata,Nexon XZA Plus P AMT,2022.0,32667,Petrol,Automatic,Thane,899000.0
+Kia,Sonet HTK Plus Turbo DCT,2020.0,16357,Petrol,Automatic,Mumbai,890000.0
+Nissan,Magnite XE,2023.0,40347,Petrol,Manual,Mumbai,496000.0
+Renault,Kiger RXT AMT,2022.0,14090,Petrol,Automatic,Thane,675000.0
+Hyundai,Elantra 2.0 SX AT,2017.0,49269,Petrol,Automatic,Thane,825000.0
+MG,Hector Plus Sharp Pro CVT 7 Str,2025.0,4300,Petrol,Automatic,Mumbai,2145000.0
+Hyundai,i20 Sportz Plus BSIV,2019.0,25000,Petrol,Manual,Mumbai,649000.0
+Audi,Q3 Sportback 40TFSI Quattro,2024.0,7600,Petrol,Automatic,Mumbai,4700000.0
+Hyundai,Verna SX IVT Opt,2023.0,15000,Petrol,Automatic,Mumbai,1475000.0
+Mahindra,Thar LX 4WD Hard Top AT BSVI,2022.0,30000,Petrol,Automatic,Mumbai,1425000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2021.0,43000,Diesel,Manual,Mumbai,1450000.0
+MG,Gloster Savvy 7-Str,2021.0,50000,Diesel,Automatic,Mumbai,2950000.0
+Hyundai,Creta 1.6 EX Petrol,2015.0,56686,Petrol,Manual,Mumbai,669000.0
+Volkswagen,Taigun 1.0 TSI Topline AT BSVI,2022.0,36491,Petrol,Automatic,Mumbai,1049000.0
+Audi,A6 35 TDI,2018.0,48191,Diesel,Automatic,Mumbai,2275000.0
+Kia,Sonet HTX Turbo iMT BSVI,2021.0,30370,Petrol,Manual,Mumbai,819999.9999999999
+Kia,Carens Luxury Plus DCT BSVI,2023.0,8911,Petrol,Automatic,Mumbai,1825000.0
+Kia,Seltos GTX Plus Diesel AT,2023.0,29000,Diesel,Automatic,Mumbai,1950000.0
+Jeep,Compass 2.0 Sport,2018.0,80000,Diesel,Manual,Mumbai,790000.0
+Hyundai,IONIQ 5 Long Range RWD,2024.0,11000,Electric,Automatic,Mumbai,3690000.0
+Tata,Nexon XZA Plus P AMT,2022.0,32667,Petrol,Automatic,Thane,899000.0
+Kia,Sonet HTK Plus Turbo DCT,2020.0,16357,Petrol,Automatic,Mumbai,890000.0
+Nissan,Magnite XE,2023.0,40347,Petrol,Manual,Mumbai,496000.0
+Renault,Kiger RXT AMT,2022.0,14090,Petrol,Automatic,Thane,675000.0
+Hyundai,Elantra 2.0 SX AT,2017.0,49269,Petrol,Automatic,Thane,825000.0
+MG,Hector Plus Sharp Pro CVT 7 Str,2025.0,4300,Petrol,Automatic,Mumbai,2145000.0
+Hyundai,i20 Sportz Plus BSIV,2019.0,25000,Petrol,Manual,Mumbai,649000.0
+Audi,Q3 Sportback 40TFSI Quattro,2024.0,7600,Petrol,Automatic,Mumbai,4700000.0
+Hyundai,Verna SX IVT Opt,2023.0,15000,Petrol,Automatic,Mumbai,1475000.0
+Mahindra,Thar LX 4WD Hard Top AT BSVI,2022.0,30000,Petrol,Automatic,Mumbai,1425000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2021.0,43000,Diesel,Manual,Mumbai,1450000.0
+MG,Gloster Savvy 7-Str,2021.0,50000,Diesel,Automatic,Mumbai,2950000.0
+Hyundai,Creta 1.6 EX Petrol,2015.0,56686,Petrol,Manual,Mumbai,669000.0
+Volkswagen,Taigun 1.0 TSI Topline AT BSVI,2022.0,36491,Petrol,Automatic,Mumbai,1049000.0
+Audi,A6 35 TDI,2018.0,48191,Diesel,Automatic,Mumbai,2275000.0
+Kia,Sonet HTX Turbo iMT BSVI,2021.0,30370,Petrol,Manual,Mumbai,819999.9999999999
+Kia,Carens Luxury Plus DCT BSVI,2023.0,8911,Petrol,Automatic,Mumbai,1825000.0
+Kia,Seltos GTX Plus Diesel AT,2023.0,29000,Diesel,Automatic,Mumbai,1950000.0
+Jeep,Compass 2.0 Sport,2018.0,80000,Diesel,Manual,Mumbai,790000.0
+Hyundai,IONIQ 5 Long Range RWD,2024.0,11000,Electric,Automatic,Mumbai,3690000.0
+Ford,Figo Petrol ZXI,2013.0,82000,Petrol,Manual,Pune,225000.0
+Hyundai,i20 Sportz Plus CVT BSIV,2019.0,48955,Petrol,Automatic,Pune,560000.0
+Kia,Seltos GTK,2019.0,30700,Petrol,Manual,Pune,1100000.0
+Kia,Seltos HTK G,2022.0,48400,Petrol,Manual,Pune,975000.0
+Maruti,S Cross Zeta AT,2021.0,49000,Petrol,Automatic,Pune,775000.0
+Maruti,Alto K10 VXI,2015.0,40845,Petrol,Manual,Pune,287000.0
+Maruti,Baleno 1.2 CVT Delta,2016.0,65000,Petrol,Automatic,Pune,485000.0
+Maruti,Baleno 1.2 Zeta,2017.0,56325,Petrol,Manual,Pune,535000.0
+Kia,Seltos HTX IVT G,2019.0,79000,Petrol,Automatic,Pune,1099000.0
+MG,Hector Sharp Diesel MT,2021.0,42000,Diesel,Manual,Pune,1550000.0
+Maruti,Alto K10 LXI S-CNG,2023.0,90000,CNG,Manual,Pune,400000.0
+Honda,Amaze S i-Dtech,2015.0,63883,Diesel,Manual,Pune,380000.0
+Honda,Amaze S i-Vtech,2013.0,67000,Petrol,Manual,Pune,290000.0
+Hyundai,EON D Lite Plus,2013.0,56045,Petrol,Manual,Pune,215000.0
+Maruti,Ertiga CNG VXI,2021.0,68000,CNG,Manual,Pune,995000.0
+Hyundai,i20 Sportz 1.2,2017.0,53046,Petrol,Manual,Pune,535000.0
+Ford,Ecosport 1.5 Petrol Ambiente,2015.0,99014,Petrol,Manual,Pune,330000.0
+Hyundai,Verna 1.4 VTVT,2013.0,116577,Petrol,Manual,Pune,380000.0
+Honda,Jazz ZX CVT,2021.0,44000,Petrol,Automatic,Pune,699000.0
+Hyundai,Creta EX BSVI,2022.0,34000,Petrol,Manual,Pune,1050000.0
+Volkswagen,Vento 1.2 TSI Highline AT,2017.0,68000,Petrol,Automatic,Pune,585000.0
+Hyundai,Venue SX Opt Turbo,2020.0,29302,Petrol,Manual,Pune,880000.0000000001
+Ford,Figo Petrol ZXI,2013.0,82000,Petrol,Manual,Pune,225000.0
+Hyundai,i20 Sportz Plus CVT BSIV,2019.0,48955,Petrol,Automatic,Pune,560000.0
+Kia,Seltos GTK,2019.0,30700,Petrol,Manual,Pune,1100000.0
+Kia,Seltos HTK G,2022.0,48400,Petrol,Manual,Pune,975000.0
+Maruti,S Cross Zeta AT,2021.0,49000,Petrol,Automatic,Pune,775000.0
+Maruti,Alto K10 VXI,2015.0,40845,Petrol,Manual,Pune,287000.0
+Maruti,Baleno 1.2 CVT Delta,2016.0,65000,Petrol,Automatic,Pune,485000.0
+Maruti,Baleno 1.2 Zeta,2017.0,56325,Petrol,Manual,Pune,535000.0
+Kia,Seltos HTX IVT G,2019.0,79000,Petrol,Automatic,Pune,1099000.0
+MG,Hector Sharp Diesel MT,2021.0,42000,Diesel,Manual,Pune,1550000.0
+Maruti,Alto K10 LXI S-CNG,2023.0,90000,CNG,Manual,Pune,400000.0
+Honda,Amaze S i-Dtech,2015.0,63883,Diesel,Manual,Pune,380000.0
+Honda,Amaze S i-Vtech,2013.0,67000,Petrol,Manual,Pune,290000.0
+Hyundai,EON D Lite Plus,2013.0,56045,Petrol,Manual,Pune,215000.0
+Maruti,Ertiga CNG VXI,2021.0,68000,CNG,Manual,Pune,995000.0
+Hyundai,i20 Sportz 1.2,2017.0,53046,Petrol,Manual,Pune,535000.0
+Ford,Ecosport 1.5 Petrol Ambiente,2015.0,99014,Petrol,Manual,Pune,330000.0
+Hyundai,Verna 1.4 VTVT,2013.0,116577,Petrol,Manual,Pune,380000.0
+Honda,Jazz ZX CVT,2021.0,44000,Petrol,Automatic,Pune,699000.0
+Hyundai,Creta EX BSVI,2022.0,34000,Petrol,Manual,Pune,1050000.0
+Volkswagen,Vento 1.2 TSI Highline AT,2017.0,68000,Petrol,Automatic,Pune,585000.0
+Hyundai,Venue SX Opt Turbo,2020.0,29302,Petrol,Manual,Pune,880000.0000000001
+Ford,Figo Petrol ZXI,2013.0,82000,Petrol,Manual,Pune,225000.0
+Hyundai,i20 Sportz Plus CVT BSIV,2019.0,48955,Petrol,Automatic,Pune,560000.0
+Kia,Seltos GTK,2019.0,30700,Petrol,Manual,Pune,1100000.0
+Kia,Seltos HTK G,2022.0,48400,Petrol,Manual,Pune,975000.0
+Maruti,S Cross Zeta AT,2021.0,49000,Petrol,Automatic,Pune,775000.0
+Maruti,Alto K10 VXI,2015.0,40845,Petrol,Manual,Pune,287000.0
+Maruti,Baleno 1.2 CVT Delta,2016.0,65000,Petrol,Automatic,Pune,485000.0
+Maruti,Baleno 1.2 Zeta,2017.0,56325,Petrol,Manual,Pune,535000.0
+Kia,Seltos HTX IVT G,2019.0,79000,Petrol,Automatic,Pune,1099000.0
+MG,Hector Sharp Diesel MT,2021.0,42000,Diesel,Manual,Pune,1550000.0
+Maruti,Alto K10 LXI S-CNG,2023.0,90000,CNG,Manual,Pune,400000.0
+Honda,Amaze S i-Dtech,2015.0,63883,Diesel,Manual,Pune,380000.0
+Honda,Amaze S i-Vtech,2013.0,67000,Petrol,Manual,Pune,290000.0
+Hyundai,EON D Lite Plus,2013.0,56045,Petrol,Manual,Pune,215000.0
+Maruti,Ertiga CNG VXI,2021.0,68000,CNG,Manual,Pune,995000.0
+Hyundai,i20 Sportz 1.2,2017.0,53046,Petrol,Manual,Pune,535000.0
+Ford,Ecosport 1.5 Petrol Ambiente,2015.0,99014,Petrol,Manual,Pune,330000.0
+Hyundai,Verna 1.4 VTVT,2013.0,116577,Petrol,Manual,Pune,380000.0
+Honda,Jazz ZX CVT,2021.0,44000,Petrol,Automatic,Pune,699000.0
+Hyundai,Creta EX BSVI,2022.0,34000,Petrol,Manual,Pune,1050000.0
+Volkswagen,Vento 1.2 TSI Highline AT,2017.0,68000,Petrol,Automatic,Pune,585000.0
+Hyundai,Venue SX Opt Turbo,2020.0,29302,Petrol,Manual,Pune,880000.0000000001
+Ford,Figo Petrol ZXI,2013.0,82000,Petrol,Manual,Pune,225000.0
+Hyundai,i20 Sportz Plus CVT BSIV,2019.0,48955,Petrol,Automatic,Pune,560000.0
+Kia,Seltos GTK,2019.0,30700,Petrol,Manual,Pune,1100000.0
+Kia,Seltos HTK G,2022.0,48400,Petrol,Manual,Pune,975000.0
+Maruti,S Cross Zeta AT,2021.0,49000,Petrol,Automatic,Pune,775000.0
+Maruti,Alto K10 VXI,2015.0,40845,Petrol,Manual,Pune,287000.0
+Maruti,Baleno 1.2 CVT Delta,2016.0,65000,Petrol,Automatic,Pune,485000.0
+Maruti,Baleno 1.2 Zeta,2017.0,56325,Petrol,Manual,Pune,535000.0
+Kia,Seltos HTX IVT G,2019.0,79000,Petrol,Automatic,Pune,1099000.0
+MG,Hector Sharp Diesel MT,2021.0,42000,Diesel,Manual,Pune,1550000.0
+Maruti,Alto K10 LXI S-CNG,2023.0,90000,CNG,Manual,Pune,400000.0
+Honda,Amaze S i-Dtech,2015.0,63883,Diesel,Manual,Pune,380000.0
+Honda,Amaze S i-Vtech,2013.0,67000,Petrol,Manual,Pune,290000.0
+Hyundai,EON D Lite Plus,2013.0,56045,Petrol,Manual,Pune,215000.0
+Maruti,Ertiga CNG VXI,2021.0,68000,CNG,Manual,Pune,995000.0
+Hyundai,i20 Sportz 1.2,2017.0,53046,Petrol,Manual,Pune,535000.0
+Ford,Ecosport 1.5 Petrol Ambiente,2015.0,99014,Petrol,Manual,Pune,330000.0
+Hyundai,Verna 1.4 VTVT,2013.0,116577,Petrol,Manual,Pune,380000.0
+Honda,Jazz ZX CVT,2021.0,44000,Petrol,Automatic,Pune,699000.0
+Hyundai,Creta EX BSVI,2022.0,34000,Petrol,Manual,Pune,1050000.0
+Volkswagen,Vento 1.2 TSI Highline AT,2017.0,68000,Petrol,Automatic,Pune,585000.0
+Hyundai,Venue SX Opt Turbo,2020.0,29302,Petrol,Manual,Pune,880000.0000000001
+Ford,Figo Petrol ZXI,2013.0,82000,Petrol,Manual,Pune,225000.0
+Hyundai,i20 Sportz Plus CVT BSIV,2019.0,48955,Petrol,Automatic,Pune,560000.0
+Kia,Seltos GTK,2019.0,30700,Petrol,Manual,Pune,1100000.0
+Kia,Seltos HTK G,2022.0,48400,Petrol,Manual,Pune,975000.0
+Maruti,S Cross Zeta AT,2021.0,49000,Petrol,Automatic,Pune,775000.0
+Maruti,Alto K10 VXI,2015.0,40845,Petrol,Manual,Pune,287000.0
+Maruti,Baleno 1.2 CVT Delta,2016.0,65000,Petrol,Automatic,Pune,485000.0
+Maruti,Baleno 1.2 Zeta,2017.0,56325,Petrol,Manual,Pune,535000.0
+Kia,Seltos HTX IVT G,2019.0,79000,Petrol,Automatic,Pune,1099000.0
+MG,Hector Sharp Diesel MT,2021.0,42000,Diesel,Manual,Pune,1550000.0
+Maruti,Alto K10 LXI S-CNG,2023.0,90000,CNG,Manual,Pune,400000.0
+Honda,Amaze S i-Dtech,2015.0,63883,Diesel,Manual,Pune,380000.0
+Honda,Amaze S i-Vtech,2013.0,67000,Petrol,Manual,Pune,290000.0
+Hyundai,EON D Lite Plus,2013.0,56045,Petrol,Manual,Pune,215000.0
+Maruti,Ertiga CNG VXI,2021.0,68000,CNG,Manual,Pune,995000.0
+Hyundai,i20 Sportz 1.2,2017.0,53046,Petrol,Manual,Pune,535000.0
+Ford,Ecosport 1.5 Petrol Ambiente,2015.0,99014,Petrol,Manual,Pune,330000.0
+Hyundai,Verna 1.4 VTVT,2013.0,116577,Petrol,Manual,Pune,380000.0
+Honda,Jazz ZX CVT,2021.0,44000,Petrol,Automatic,Pune,699000.0
+Hyundai,Creta EX BSVI,2022.0,34000,Petrol,Manual,Pune,1050000.0
+Volkswagen,Vento 1.2 TSI Highline AT,2017.0,68000,Petrol,Automatic,Pune,585000.0
+Hyundai,Venue SX Opt Turbo,2020.0,29302,Petrol,Manual,Pune,880000.0000000001
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Hyundai,Grand i10 Magna,2014.0,27000,Petrol,Manual,Nashik,375000.0
+Ford,Aspire 1.2 Ti-VCT Titanium,2019.0,60000,Petrol,Manual,Nashik,490000.00000000006
+Skoda,Rapid 1.5 TDI Ambition BSIV,2017.0,51000,Diesel,Manual,Nashik,675000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Volkswagen,Tiguan 2.0 TDI Highline,2017.0,137000,Diesel,Automatic,Nashik,1390000.0
+Toyota,Innova 2.5 Z Diesel 7 Seater BS IV,2014.0,153000,Diesel,Manual,Nashik,975000.0
+BMW,5 Series 520i Luxury Line,2017.0,47350,Petrol,Automatic,Nashik,1900000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Tata,Zest Quadrajet 1.3 XT,2015.0,57830,Diesel,Manual,Nashik,425000.0
+Audi,Q3 35 TDI Quattro Premium,2016.0,138000,Diesel,Automatic,Nashik,1400000.0
+Toyota,Innova Crysta 2.4 GX 8Str,2019.0,142982,Diesel,Manual,Nashik,1850000.0
+BMW,X1 sDrive20d,2013.0,80000,Diesel,Automatic,Nashik,700000.0
+BMW,X3 xDrive 20d xLine,2015.0,57750,Diesel,Automatic,Nashik,1600000.0
+Audi,A6 45 TFSI Technology,2020.0,52000,Petrol,Automatic,Nashik,3175000.0
+Tata,Nexon EV XZ Plus,2021.0,40000,Electric,Automatic,Nashik,819999.9999999999
+BMW,X3 xDrive 20d xLine,2016.0,69300,Diesel,Automatic,Nashik,1850000.0
+Audi,A8 L 3.0 TDI quattro,2015.0,125800,Diesel,Automatic,Nashik,2600000.0
+Audi,A6 35 TDI,2015.0,35500,Diesel,Automatic,Nashik,1875000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Hyundai,Grand i10 Magna,2014.0,27000,Petrol,Manual,Nashik,375000.0
+Ford,Aspire 1.2 Ti-VCT Titanium,2019.0,60000,Petrol,Manual,Nashik,490000.00000000006
+Skoda,Rapid 1.5 TDI Ambition BSIV,2017.0,51000,Diesel,Manual,Nashik,675000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Volkswagen,Tiguan 2.0 TDI Highline,2017.0,137000,Diesel,Automatic,Nashik,1390000.0
+Toyota,Innova 2.5 Z Diesel 7 Seater BS IV,2014.0,153000,Diesel,Manual,Nashik,975000.0
+BMW,5 Series 520i Luxury Line,2017.0,47350,Petrol,Automatic,Nashik,1900000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Tata,Zest Quadrajet 1.3 XT,2015.0,57830,Diesel,Manual,Nashik,425000.0
+Audi,Q3 35 TDI Quattro Premium,2016.0,138000,Diesel,Automatic,Nashik,1400000.0
+Toyota,Innova Crysta 2.4 GX 8Str,2019.0,142982,Diesel,Manual,Nashik,1850000.0
+BMW,X1 sDrive20d,2013.0,80000,Diesel,Automatic,Nashik,700000.0
+BMW,X3 xDrive 20d xLine,2015.0,57750,Diesel,Automatic,Nashik,1600000.0
+Audi,A6 45 TFSI Technology,2020.0,52000,Petrol,Automatic,Nashik,3175000.0
+Tata,Nexon EV XZ Plus,2021.0,40000,Electric,Automatic,Nashik,819999.9999999999
+BMW,X3 xDrive 20d xLine,2016.0,69300,Diesel,Automatic,Nashik,1850000.0
+Audi,A8 L 3.0 TDI quattro,2015.0,125800,Diesel,Automatic,Nashik,2600000.0
+Audi,A6 35 TDI,2015.0,35500,Diesel,Automatic,Nashik,1875000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Hyundai,Grand i10 Magna,2014.0,27000,Petrol,Manual,Nashik,375000.0
+Ford,Aspire 1.2 Ti-VCT Titanium,2019.0,60000,Petrol,Manual,Nashik,490000.00000000006
+Skoda,Rapid 1.5 TDI Ambition BSIV,2017.0,51000,Diesel,Manual,Nashik,675000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Volkswagen,Tiguan 2.0 TDI Highline,2017.0,137000,Diesel,Automatic,Nashik,1390000.0
+Toyota,Innova 2.5 Z Diesel 7 Seater BS IV,2014.0,153000,Diesel,Manual,Nashik,975000.0
+BMW,5 Series 520i Luxury Line,2017.0,47350,Petrol,Automatic,Nashik,1900000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Tata,Zest Quadrajet 1.3 XT,2015.0,57830,Diesel,Manual,Nashik,425000.0
+Audi,Q3 35 TDI Quattro Premium,2016.0,138000,Diesel,Automatic,Nashik,1400000.0
+Toyota,Innova Crysta 2.4 GX 8Str,2019.0,142982,Diesel,Manual,Nashik,1850000.0
+BMW,X1 sDrive20d,2013.0,80000,Diesel,Automatic,Nashik,700000.0
+BMW,X3 xDrive 20d xLine,2015.0,57750,Diesel,Automatic,Nashik,1600000.0
+Audi,A6 45 TFSI Technology,2020.0,52000,Petrol,Automatic,Nashik,3175000.0
+Tata,Nexon EV XZ Plus,2021.0,40000,Electric,Automatic,Nashik,819999.9999999999
+BMW,X3 xDrive 20d xLine,2016.0,69300,Diesel,Automatic,Nashik,1850000.0
+Audi,A8 L 3.0 TDI quattro,2015.0,125800,Diesel,Automatic,Nashik,2600000.0
+Audi,A6 35 TDI,2015.0,35500,Diesel,Automatic,Nashik,1875000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Hyundai,Grand i10 Magna,2014.0,27000,Petrol,Manual,Nashik,375000.0
+Ford,Aspire 1.2 Ti-VCT Titanium,2019.0,60000,Petrol,Manual,Nashik,490000.00000000006
+Skoda,Rapid 1.5 TDI Ambition BSIV,2017.0,51000,Diesel,Manual,Nashik,675000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Volkswagen,Tiguan 2.0 TDI Highline,2017.0,137000,Diesel,Automatic,Nashik,1390000.0
+Toyota,Innova 2.5 Z Diesel 7 Seater BS IV,2014.0,153000,Diesel,Manual,Nashik,975000.0
+BMW,5 Series 520i Luxury Line,2017.0,47350,Petrol,Automatic,Nashik,1900000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Tata,Zest Quadrajet 1.3 XT,2015.0,57830,Diesel,Manual,Nashik,425000.0
+Audi,Q3 35 TDI Quattro Premium,2016.0,138000,Diesel,Automatic,Nashik,1400000.0
+Toyota,Innova Crysta 2.4 GX 8Str,2019.0,142982,Diesel,Manual,Nashik,1850000.0
+BMW,X1 sDrive20d,2013.0,80000,Diesel,Automatic,Nashik,700000.0
+BMW,X3 xDrive 20d xLine,2015.0,57750,Diesel,Automatic,Nashik,1600000.0
+Audi,A6 45 TFSI Technology,2020.0,52000,Petrol,Automatic,Nashik,3175000.0
+Tata,Nexon EV XZ Plus,2021.0,40000,Electric,Automatic,Nashik,819999.9999999999
+BMW,X3 xDrive 20d xLine,2016.0,69300,Diesel,Automatic,Nashik,1850000.0
+Audi,A8 L 3.0 TDI quattro,2015.0,125800,Diesel,Automatic,Nashik,2600000.0
+Audi,A6 35 TDI,2015.0,35500,Diesel,Automatic,Nashik,1875000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Hyundai,Grand i10 Magna,2014.0,27000,Petrol,Manual,Nashik,375000.0
+Ford,Aspire 1.2 Ti-VCT Titanium,2019.0,60000,Petrol,Manual,Nashik,490000.00000000006
+Skoda,Rapid 1.5 TDI Ambition BSIV,2017.0,51000,Diesel,Manual,Nashik,675000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Volkswagen,Tiguan 2.0 TDI Highline,2017.0,137000,Diesel,Automatic,Nashik,1390000.0
+Toyota,Innova 2.5 Z Diesel 7 Seater BS IV,2014.0,153000,Diesel,Manual,Nashik,975000.0
+BMW,5 Series 520i Luxury Line,2017.0,47350,Petrol,Automatic,Nashik,1900000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Skoda,Rapid 1.0 TSI Style,2021.0,70000,Petrol,Manual,Nashik,791000.0
+Tata,Safari XZA AT BSVI,2021.0,150000,Diesel,Automatic,Nashik,1400000.0
+Maruti,XL6 Zeta,2020.0,64000,Petrol,Manual,Nashik,961000.0
+Tata,Zest Quadrajet 1.3 XT,2015.0,57830,Diesel,Manual,Nashik,425000.0
+Audi,Q3 35 TDI Quattro Premium,2016.0,138000,Diesel,Automatic,Nashik,1400000.0
+Toyota,Innova Crysta 2.4 GX 8Str,2019.0,142982,Diesel,Manual,Nashik,1850000.0
+BMW,X1 sDrive20d,2013.0,80000,Diesel,Automatic,Nashik,700000.0
+BMW,X3 xDrive 20d xLine,2015.0,57750,Diesel,Automatic,Nashik,1600000.0
+Audi,A6 45 TFSI Technology,2020.0,52000,Petrol,Automatic,Nashik,3175000.0
+Tata,Nexon EV XZ Plus,2021.0,40000,Electric,Automatic,Nashik,819999.9999999999
+BMW,X3 xDrive 20d xLine,2016.0,69300,Diesel,Automatic,Nashik,1850000.0
+Audi,A8 L 3.0 TDI quattro,2015.0,125800,Diesel,Automatic,Nashik,2600000.0
+Audi,A6 35 TDI,2015.0,35500,Diesel,Automatic,Nashik,1875000.0
+Ford,Figo Petrol ZXI,2010.0,74000,Petrol,Manual,Nagpur,170000.0
+Kia,Seltos HTX IVT,2024.0,13000,Petrol,Automatic,Nagpur,1789000.0
+Maruti,Alto K10 VXI Plus,2022.0,29136,Petrol,Manual,Nagpur,416000.0
+Honda,Brio 1.2 VX AT,2018.0,43000,Petrol,Automatic,Nagpur,515000.00000000006
+Maruti,Celerio X VXI Option BSIV,2018.0,52000,Petrol,Manual,Nagpur,410000.0
+Kia,Seltos HTK Diesel,2020.0,48000,Diesel,Manual,Nagpur,1150000.0
+Honda,City i-VTEC V,2018.0,88000,Petrol,Manual,Nagpur,715000.0
+Tata,Nexon 1.2 Revotron XM,2019.0,36000,Petrol,Manual,Nagpur,525000.0
+Tata,Tigor XZ Plus CNG,2023.0,42000,CNG,Manual,Nagpur,640000.0
+Hyundai,i20 Asta Opt BSVI,2022.0,30000,Petrol,Manual,Nagpur,900000.0
+Jeep,Compass 1.4 Limited Option,2018.0,80000,Petrol,Automatic,Nagpur,900000.0
+Tata,Harrier XZ Plus BSVI,2022.0,70000,Diesel,Manual,Nagpur,1600000.0
+Tata,Punch Creative AMT DT BSVI,2023.0,50937,Petrol,Automatic,Nagpur,833000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Ford,Figo 1.5 Sports Edition MT,2015.0,98000,Diesel,Manual,Nagpur,360000.0
+Skoda,Rapid 1.6 MPI Active,2013.0,61000,Petrol,Manual,Nagpur,260000.0
+Datsun,GO Plus T BSIV,2015.0,56000,Petrol,Manual,Nagpur,270000.0
+Renault,Kiger RXZ,2021.0,39000,Petrol,Manual,Nagpur,585000.0
+Volkswagen,Polo 1.2 MPI Comfortline,2014.0,27000,Petrol,Manual,Nagpur,370000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Honda,City GXi,2006.0,82000,Petrol,Manual,Nagpur,165000.0
+Honda,City i VTEC SV,2015.0,86000,Petrol,Manual,Nagpur,460000.0
+Hyundai,i20 Sportz Option 1.2,2014.0,42204,Petrol,Manual,Nagpur,405000.0
+Ford,Figo Petrol ZXI,2010.0,74000,Petrol,Manual,Nagpur,170000.0
+Kia,Seltos HTX IVT,2024.0,13000,Petrol,Automatic,Nagpur,1789000.0
+Maruti,Alto K10 VXI Plus,2022.0,29136,Petrol,Manual,Nagpur,416000.0
+Honda,Brio 1.2 VX AT,2018.0,43000,Petrol,Automatic,Nagpur,515000.00000000006
+Maruti,Celerio X VXI Option BSIV,2018.0,52000,Petrol,Manual,Nagpur,410000.0
+Kia,Seltos HTK Diesel,2020.0,48000,Diesel,Manual,Nagpur,1150000.0
+Honda,City i-VTEC V,2018.0,88000,Petrol,Manual,Nagpur,715000.0
+Tata,Nexon 1.2 Revotron XM,2019.0,36000,Petrol,Manual,Nagpur,525000.0
+Tata,Tigor XZ Plus CNG,2023.0,42000,CNG,Manual,Nagpur,640000.0
+Hyundai,i20 Asta Opt BSVI,2022.0,30000,Petrol,Manual,Nagpur,900000.0
+Jeep,Compass 1.4 Limited Option,2018.0,80000,Petrol,Automatic,Nagpur,900000.0
+Tata,Harrier XZ Plus BSVI,2022.0,70000,Diesel,Manual,Nagpur,1600000.0
+Tata,Punch Creative AMT DT BSVI,2023.0,50937,Petrol,Automatic,Nagpur,833000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Ford,Figo 1.5 Sports Edition MT,2015.0,98000,Diesel,Manual,Nagpur,360000.0
+Skoda,Rapid 1.6 MPI Active,2013.0,61000,Petrol,Manual,Nagpur,260000.0
+Datsun,GO Plus T BSIV,2015.0,56000,Petrol,Manual,Nagpur,270000.0
+Renault,Kiger RXZ,2021.0,39000,Petrol,Manual,Nagpur,585000.0
+Volkswagen,Polo 1.2 MPI Comfortline,2014.0,27000,Petrol,Manual,Nagpur,370000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Honda,City GXi,2006.0,82000,Petrol,Manual,Nagpur,165000.0
+Honda,City i VTEC SV,2015.0,86000,Petrol,Manual,Nagpur,460000.0
+Hyundai,i20 Sportz Option 1.2,2014.0,42204,Petrol,Manual,Nagpur,405000.0
+Ford,Figo Petrol ZXI,2010.0,74000,Petrol,Manual,Nagpur,170000.0
+Kia,Seltos HTX IVT,2024.0,13000,Petrol,Automatic,Nagpur,1789000.0
+Maruti,Alto K10 VXI Plus,2022.0,29136,Petrol,Manual,Nagpur,416000.0
+Honda,Brio 1.2 VX AT,2018.0,43000,Petrol,Automatic,Nagpur,515000.00000000006
+Maruti,Celerio X VXI Option BSIV,2018.0,52000,Petrol,Manual,Nagpur,410000.0
+Kia,Seltos HTK Diesel,2020.0,48000,Diesel,Manual,Nagpur,1150000.0
+Honda,City i-VTEC V,2018.0,88000,Petrol,Manual,Nagpur,715000.0
+Tata,Nexon 1.2 Revotron XM,2019.0,36000,Petrol,Manual,Nagpur,525000.0
+Tata,Tigor XZ Plus CNG,2023.0,42000,CNG,Manual,Nagpur,640000.0
+Hyundai,i20 Asta Opt BSVI,2022.0,30000,Petrol,Manual,Nagpur,900000.0
+Jeep,Compass 1.4 Limited Option,2018.0,80000,Petrol,Automatic,Nagpur,900000.0
+Tata,Harrier XZ Plus BSVI,2022.0,70000,Diesel,Manual,Nagpur,1600000.0
+Tata,Punch Creative AMT DT BSVI,2023.0,50937,Petrol,Automatic,Nagpur,833000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Ford,Figo 1.5 Sports Edition MT,2015.0,98000,Diesel,Manual,Nagpur,360000.0
+Skoda,Rapid 1.6 MPI Active,2013.0,61000,Petrol,Manual,Nagpur,260000.0
+Datsun,GO Plus T BSIV,2015.0,56000,Petrol,Manual,Nagpur,270000.0
+Renault,Kiger RXZ,2021.0,39000,Petrol,Manual,Nagpur,585000.0
+Volkswagen,Polo 1.2 MPI Comfortline,2014.0,27000,Petrol,Manual,Nagpur,370000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Honda,City GXi,2006.0,82000,Petrol,Manual,Nagpur,165000.0
+Honda,City i VTEC SV,2015.0,86000,Petrol,Manual,Nagpur,460000.0
+Hyundai,i20 Sportz Option 1.2,2014.0,42204,Petrol,Manual,Nagpur,405000.0
+Ford,Figo Petrol ZXI,2010.0,74000,Petrol,Manual,Nagpur,170000.0
+Kia,Seltos HTX IVT,2024.0,13000,Petrol,Automatic,Nagpur,1789000.0
+Maruti,Alto K10 VXI Plus,2022.0,29136,Petrol,Manual,Nagpur,416000.0
+Honda,Brio 1.2 VX AT,2018.0,43000,Petrol,Automatic,Nagpur,515000.00000000006
+Maruti,Celerio X VXI Option BSIV,2018.0,52000,Petrol,Manual,Nagpur,410000.0
+Kia,Seltos HTK Diesel,2020.0,48000,Diesel,Manual,Nagpur,1150000.0
+Honda,City i-VTEC V,2018.0,88000,Petrol,Manual,Nagpur,715000.0
+Tata,Nexon 1.2 Revotron XM,2019.0,36000,Petrol,Manual,Nagpur,525000.0
+Tata,Tigor XZ Plus CNG,2023.0,42000,CNG,Manual,Nagpur,640000.0
+Hyundai,i20 Asta Opt BSVI,2022.0,30000,Petrol,Manual,Nagpur,900000.0
+Jeep,Compass 1.4 Limited Option,2018.0,80000,Petrol,Automatic,Nagpur,900000.0
+Tata,Harrier XZ Plus BSVI,2022.0,70000,Diesel,Manual,Nagpur,1600000.0
+Tata,Punch Creative AMT DT BSVI,2023.0,50937,Petrol,Automatic,Nagpur,833000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Ford,Figo 1.5 Sports Edition MT,2015.0,98000,Diesel,Manual,Nagpur,360000.0
+Skoda,Rapid 1.6 MPI Active,2013.0,61000,Petrol,Manual,Nagpur,260000.0
+Datsun,GO Plus T BSIV,2015.0,56000,Petrol,Manual,Nagpur,270000.0
+Renault,Kiger RXZ,2021.0,39000,Petrol,Manual,Nagpur,585000.0
+Volkswagen,Polo 1.2 MPI Comfortline,2014.0,27000,Petrol,Manual,Nagpur,370000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Honda,City GXi,2006.0,82000,Petrol,Manual,Nagpur,165000.0
+Honda,City i VTEC SV,2015.0,86000,Petrol,Manual,Nagpur,460000.0
+Hyundai,i20 Sportz Option 1.2,2014.0,42204,Petrol,Manual,Nagpur,405000.0
+Ford,Figo Petrol ZXI,2010.0,74000,Petrol,Manual,Nagpur,170000.0
+Kia,Seltos HTX IVT,2024.0,13000,Petrol,Automatic,Nagpur,1789000.0
+Maruti,Alto K10 VXI Plus,2022.0,29136,Petrol,Manual,Nagpur,416000.0
+Honda,Brio 1.2 VX AT,2018.0,43000,Petrol,Automatic,Nagpur,515000.00000000006
+Maruti,Celerio X VXI Option BSIV,2018.0,52000,Petrol,Manual,Nagpur,410000.0
+Kia,Seltos HTK Diesel,2020.0,48000,Diesel,Manual,Nagpur,1150000.0
+Honda,City i-VTEC V,2018.0,88000,Petrol,Manual,Nagpur,715000.0
+Tata,Nexon 1.2 Revotron XM,2019.0,36000,Petrol,Manual,Nagpur,525000.0
+Tata,Tigor XZ Plus CNG,2023.0,42000,CNG,Manual,Nagpur,640000.0
+Hyundai,i20 Asta Opt BSVI,2022.0,30000,Petrol,Manual,Nagpur,900000.0
+Jeep,Compass 1.4 Limited Option,2018.0,80000,Petrol,Automatic,Nagpur,900000.0
+Tata,Harrier XZ Plus BSVI,2022.0,70000,Diesel,Manual,Nagpur,1600000.0
+Tata,Punch Creative AMT DT BSVI,2023.0,50937,Petrol,Automatic,Nagpur,833000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Ford,Figo 1.5 Sports Edition MT,2015.0,98000,Diesel,Manual,Nagpur,360000.0
+Skoda,Rapid 1.6 MPI Active,2013.0,61000,Petrol,Manual,Nagpur,260000.0
+Datsun,GO Plus T BSIV,2015.0,56000,Petrol,Manual,Nagpur,270000.0
+Renault,Kiger RXZ,2021.0,39000,Petrol,Manual,Nagpur,585000.0
+Volkswagen,Polo 1.2 MPI Comfortline,2014.0,27000,Petrol,Manual,Nagpur,370000.0
+Ford,Ecosport 1.5 Petrol Trend Plus AT BSIV,2018.0,21000,Petrol,Automatic,Nagpur,580000.0
+Honda,City GXi,2006.0,82000,Petrol,Manual,Nagpur,165000.0
+Honda,City i VTEC SV,2015.0,86000,Petrol,Manual,Nagpur,460000.0
+Hyundai,i20 Sportz Option 1.2,2014.0,42204,Petrol,Manual,Nagpur,405000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Volkswagen,Vento 1.2 TSI Comfortline AT,2014.0,80836,Petrol,Automatic,Aurangabad,415000.00000000006
+Mahindra,KUV 100 mFALCON D75 K8,2016.0,75500,Diesel,Manual,Aurangabad,385000.0
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Volkswagen,Vento Petrol Highline,2012.0,78200,Petrol,Manual,Aurangabad,410000.0
+Maruti,Alto 800 VXI,2014.0,78000,Petrol,Manual,Aurangabad,245000.00000000003
+Renault,Duster 85PS Diesel RxL,2015.0,68000,Diesel,Manual,Aurangabad,525000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Maruti,Swift Dzire LXI,2012.0,72000,Petrol,Manual,Aurangabad,345000.0
+Ford,Fiesta Petrol Titanium Plus,2013.0,44000,Petrol,Manual,Aurangabad,255000.0
+Maruti,Ertiga VXI CNG,2022.0,79500,CNG,Manual,Aurangabad,1135000.0
+Ford,Fiesta Petrol Titanium,2014.0,88000,Petrol,Manual,Aurangabad,295000.0
+Hyundai,EON Magna Plus,2015.0,85500,Petrol,Manual,Aurangabad,245000.00000000003
+Maruti,Ertiga VDI,2015.0,118000,Diesel,Manual,Aurangabad,695000.0
+Maruti,Swift Dzire LXI,2014.0,82000,Petrol,Manual,Aurangabad,395000.0
+Maruti,Swift VDI BSIV,2017.0,103000,Diesel,Manual,Aurangabad,625000.0
+Maruti,Baleno 1.3 Zeta,2015.0,67000,Diesel,Manual,Aurangabad,570000.0
+Volkswagen,Jetta 2.0L TDI Highline,2013.0,119000,Diesel,Manual,Aurangabad,595000.0
+Maruti,Alto 800 LXI,2019.0,42000,Petrol,Manual,Aurangabad,295000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Volkswagen,Vento 1.2 TSI Comfortline AT,2014.0,80836,Petrol,Automatic,Aurangabad,415000.00000000006
+Mahindra,KUV 100 mFALCON D75 K8,2016.0,75500,Diesel,Manual,Aurangabad,385000.0
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Volkswagen,Vento Petrol Highline,2012.0,78200,Petrol,Manual,Aurangabad,410000.0
+Maruti,Alto 800 VXI,2014.0,78000,Petrol,Manual,Aurangabad,245000.00000000003
+Renault,Duster 85PS Diesel RxL,2015.0,68000,Diesel,Manual,Aurangabad,525000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Maruti,Swift Dzire LXI,2012.0,72000,Petrol,Manual,Aurangabad,345000.0
+Ford,Fiesta Petrol Titanium Plus,2013.0,44000,Petrol,Manual,Aurangabad,255000.0
+Maruti,Ertiga VXI CNG,2022.0,79500,CNG,Manual,Aurangabad,1135000.0
+Ford,Fiesta Petrol Titanium,2014.0,88000,Petrol,Manual,Aurangabad,295000.0
+Hyundai,EON Magna Plus,2015.0,85500,Petrol,Manual,Aurangabad,245000.00000000003
+Maruti,Ertiga VDI,2015.0,118000,Diesel,Manual,Aurangabad,695000.0
+Maruti,Swift Dzire LXI,2014.0,82000,Petrol,Manual,Aurangabad,395000.0
+Maruti,Swift VDI BSIV,2017.0,103000,Diesel,Manual,Aurangabad,625000.0
+Maruti,Baleno 1.3 Zeta,2015.0,67000,Diesel,Manual,Aurangabad,570000.0
+Volkswagen,Jetta 2.0L TDI Highline,2013.0,119000,Diesel,Manual,Aurangabad,595000.0
+Maruti,Alto 800 LXI,2019.0,42000,Petrol,Manual,Aurangabad,295000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Volkswagen,Vento 1.2 TSI Comfortline AT,2014.0,80836,Petrol,Automatic,Aurangabad,415000.00000000006
+Mahindra,KUV 100 mFALCON D75 K8,2016.0,75500,Diesel,Manual,Aurangabad,385000.0
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Volkswagen,Vento Petrol Highline,2012.0,78200,Petrol,Manual,Aurangabad,410000.0
+Maruti,Alto 800 VXI,2014.0,78000,Petrol,Manual,Aurangabad,245000.00000000003
+Renault,Duster 85PS Diesel RxL,2015.0,68000,Diesel,Manual,Aurangabad,525000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Maruti,Swift Dzire LXI,2012.0,72000,Petrol,Manual,Aurangabad,345000.0
+Ford,Fiesta Petrol Titanium Plus,2013.0,44000,Petrol,Manual,Aurangabad,255000.0
+Maruti,Ertiga VXI CNG,2022.0,79500,CNG,Manual,Aurangabad,1135000.0
+Ford,Fiesta Petrol Titanium,2014.0,88000,Petrol,Manual,Aurangabad,295000.0
+Hyundai,EON Magna Plus,2015.0,85500,Petrol,Manual,Aurangabad,245000.00000000003
+Maruti,Ertiga VDI,2015.0,118000,Diesel,Manual,Aurangabad,695000.0
+Maruti,Swift Dzire LXI,2014.0,82000,Petrol,Manual,Aurangabad,395000.0
+Maruti,Swift VDI BSIV,2017.0,103000,Diesel,Manual,Aurangabad,625000.0
+Maruti,Baleno 1.3 Zeta,2015.0,67000,Diesel,Manual,Aurangabad,570000.0
+Volkswagen,Jetta 2.0L TDI Highline,2013.0,119000,Diesel,Manual,Aurangabad,595000.0
+Maruti,Alto 800 LXI,2019.0,42000,Petrol,Manual,Aurangabad,295000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Volkswagen,Vento 1.2 TSI Comfortline AT,2014.0,80836,Petrol,Automatic,Aurangabad,415000.00000000006
+Mahindra,KUV 100 mFALCON D75 K8,2016.0,75500,Diesel,Manual,Aurangabad,385000.0
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Volkswagen,Vento Petrol Highline,2012.0,78200,Petrol,Manual,Aurangabad,410000.0
+Maruti,Alto 800 VXI,2014.0,78000,Petrol,Manual,Aurangabad,245000.00000000003
+Renault,Duster 85PS Diesel RxL,2015.0,68000,Diesel,Manual,Aurangabad,525000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Maruti,Swift Dzire LXI,2012.0,72000,Petrol,Manual,Aurangabad,345000.0
+Ford,Fiesta Petrol Titanium Plus,2013.0,44000,Petrol,Manual,Aurangabad,255000.0
+Maruti,Ertiga VXI CNG,2022.0,79500,CNG,Manual,Aurangabad,1135000.0
+Ford,Fiesta Petrol Titanium,2014.0,88000,Petrol,Manual,Aurangabad,295000.0
+Hyundai,EON Magna Plus,2015.0,85500,Petrol,Manual,Aurangabad,245000.00000000003
+Maruti,Ertiga VDI,2015.0,118000,Diesel,Manual,Aurangabad,695000.0
+Maruti,Swift Dzire LXI,2014.0,82000,Petrol,Manual,Aurangabad,395000.0
+Maruti,Swift VDI BSIV,2017.0,103000,Diesel,Manual,Aurangabad,625000.0
+Maruti,Baleno 1.3 Zeta,2015.0,67000,Diesel,Manual,Aurangabad,570000.0
+Volkswagen,Jetta 2.0L TDI Highline,2013.0,119000,Diesel,Manual,Aurangabad,595000.0
+Maruti,Alto 800 LXI,2019.0,42000,Petrol,Manual,Aurangabad,295000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Volkswagen,Vento 1.2 TSI Comfortline AT,2014.0,80836,Petrol,Automatic,Aurangabad,415000.00000000006
+Mahindra,KUV 100 mFALCON D75 K8,2016.0,75500,Diesel,Manual,Aurangabad,385000.0
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Volkswagen,Vento Petrol Highline,2012.0,78200,Petrol,Manual,Aurangabad,410000.0
+Maruti,Alto 800 VXI,2014.0,78000,Petrol,Manual,Aurangabad,245000.00000000003
+Renault,Duster 85PS Diesel RxL,2015.0,68000,Diesel,Manual,Aurangabad,525000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+Skoda,Octavia 2.0 TDI AT L K,2016.0,109000,Diesel,Automatic,Aurangabad,1050000.0
+MG,Windsor EV Essence,2025.0,10000,Electric,Automatic,Aurangabad,1639999.9999999998
+Mahindra,XUV 3XO AX5 AT,2024.0,40000,Petrol,Automatic,Aurangabad,1305000.0
+Maruti,Swift Dzire LXI,2012.0,72000,Petrol,Manual,Aurangabad,345000.0
+Ford,Fiesta Petrol Titanium Plus,2013.0,44000,Petrol,Manual,Aurangabad,255000.0
+Maruti,Ertiga VXI CNG,2022.0,79500,CNG,Manual,Aurangabad,1135000.0
+Ford,Fiesta Petrol Titanium,2014.0,88000,Petrol,Manual,Aurangabad,295000.0
+Hyundai,EON Magna Plus,2015.0,85500,Petrol,Manual,Aurangabad,245000.00000000003
+Maruti,Ertiga VDI,2015.0,118000,Diesel,Manual,Aurangabad,695000.0
+Maruti,Swift Dzire LXI,2014.0,82000,Petrol,Manual,Aurangabad,395000.0
+Maruti,Swift VDI BSIV,2017.0,103000,Diesel,Manual,Aurangabad,625000.0
+Maruti,Baleno 1.3 Zeta,2015.0,67000,Diesel,Manual,Aurangabad,570000.0
+Volkswagen,Jetta 2.0L TDI Highline,2013.0,119000,Diesel,Manual,Aurangabad,595000.0
+Maruti,Alto 800 LXI,2019.0,42000,Petrol,Manual,Aurangabad,295000.0
+Tata,Altroz XZA Plus OS DCT,2025.0,5210,Petrol,Automatic,Ahmednagar,865000.0
+Kia,Seltos HTK Plus G,2020.0,49671,Petrol,Manual,Ahmednagar,995000.0
+Maruti,Baleno Delta,2021.0,44424,Petrol,Manual,Ahmednagar,595000.0
+Renault,Duster 4x4,2014.0,76000,Diesel,Manual,Ahmednagar,595000.0
+Volkswagen,Polo Diesel Comfortline 1.2L,2013.0,70000,Diesel,Manual,Ahmednagar,425000.0
+Maruti,Swift Dzire VDI,2013.0,54000,Diesel,Manual,Ahmednagar,535000.0
+Renault,Duster 85PS Diesel RxL,2013.0,76000,Diesel,Manual,Ahmednagar,465000.00000000006
+Toyota,Innova Crysta 2.4 VX MT BSIV,2017.0,151000,Diesel,Manual,Ahmednagar,1575000.0
+Hyundai,i20 1.4 CRDi Anniversary Edition,2017.0,84000,Diesel,Manual,Ahmednagar,635000.0
+Mahindra,XUV500 R W10 FWD,2017.0,68000,Diesel,Manual,Ahmednagar,1125000.0
+MG,Astor Super EX BSVI,2022.0,26484,Petrol,Manual,Ahmednagar,850000.0
+Tata,Nexon XZA Plus (O) AMT,2022.0,5827,Petrol,Automatic,Ahmednagar,925000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2024.0,15000,Diesel,Manual,Ahmednagar,1425000.0
+Maruti,Swift Dzire VDI,2017.0,85000,Diesel,Manual,Ahmednagar,660000.0
+Hyundai,Creta 1.6 CRDi AT SX Plus,2016.0,115000,Diesel,Automatic,Ahmednagar,925000.0
+Hyundai,i20 Sportz 1.4 CRDi,2013.0,56000,Diesel,Manual,Ahmednagar,455000.0
+Maruti,Wagon R VXI BS IV,2011.0,71000,Petrol,Manual,Ahmednagar,290000.0
+Mahindra,Bolero Neo N10 Option,2023.0,30000,Diesel,Manual,Ahmednagar,1150000.0
+Tata,Nexon Creative Plus S,2024.0,10000,Petrol,Manual,Ahmednagar,1350000.0
+Renault,KWID Climber 1.0 MT DT,2021.0,120000,Petrol,Manual,Ahmednagar,400000.0
+Tata,Altroz XZA Plus OS DCT,2025.0,5210,Petrol,Automatic,Ahmednagar,865000.0
+Kia,Seltos HTK Plus G,2020.0,49671,Petrol,Manual,Ahmednagar,995000.0
+Maruti,Baleno Delta,2021.0,44424,Petrol,Manual,Ahmednagar,595000.0
+Renault,Duster 4x4,2014.0,76000,Diesel,Manual,Ahmednagar,595000.0
+Volkswagen,Polo Diesel Comfortline 1.2L,2013.0,70000,Diesel,Manual,Ahmednagar,425000.0
+Maruti,Swift Dzire VDI,2013.0,54000,Diesel,Manual,Ahmednagar,535000.0
+Renault,Duster 85PS Diesel RxL,2013.0,76000,Diesel,Manual,Ahmednagar,465000.00000000006
+Toyota,Innova Crysta 2.4 VX MT BSIV,2017.0,151000,Diesel,Manual,Ahmednagar,1575000.0
+Hyundai,i20 1.4 CRDi Anniversary Edition,2017.0,84000,Diesel,Manual,Ahmednagar,635000.0
+Mahindra,XUV500 R W10 FWD,2017.0,68000,Diesel,Manual,Ahmednagar,1125000.0
+MG,Astor Super EX BSVI,2022.0,26484,Petrol,Manual,Ahmednagar,850000.0
+Tata,Nexon XZA Plus (O) AMT,2022.0,5827,Petrol,Automatic,Ahmednagar,925000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2024.0,15000,Diesel,Manual,Ahmednagar,1425000.0
+Maruti,Swift Dzire VDI,2017.0,85000,Diesel,Manual,Ahmednagar,660000.0
+Hyundai,Creta 1.6 CRDi AT SX Plus,2016.0,115000,Diesel,Automatic,Ahmednagar,925000.0
+Hyundai,i20 Sportz 1.4 CRDi,2013.0,56000,Diesel,Manual,Ahmednagar,455000.0
+Maruti,Wagon R VXI BS IV,2011.0,71000,Petrol,Manual,Ahmednagar,290000.0
+Mahindra,Bolero Neo N10 Option,2023.0,30000,Diesel,Manual,Ahmednagar,1150000.0
+Tata,Nexon Creative Plus S,2024.0,10000,Petrol,Manual,Ahmednagar,1350000.0
+Renault,KWID Climber 1.0 MT DT,2021.0,120000,Petrol,Manual,Ahmednagar,400000.0
+Tata,Altroz XZA Plus OS DCT,2025.0,5210,Petrol,Automatic,Ahmednagar,865000.0
+Kia,Seltos HTK Plus G,2020.0,49671,Petrol,Manual,Ahmednagar,995000.0
+Maruti,Baleno Delta,2021.0,44424,Petrol,Manual,Ahmednagar,595000.0
+Renault,Duster 4x4,2014.0,76000,Diesel,Manual,Ahmednagar,595000.0
+Volkswagen,Polo Diesel Comfortline 1.2L,2013.0,70000,Diesel,Manual,Ahmednagar,425000.0
+Maruti,Swift Dzire VDI,2013.0,54000,Diesel,Manual,Ahmednagar,535000.0
+Renault,Duster 85PS Diesel RxL,2013.0,76000,Diesel,Manual,Ahmednagar,465000.00000000006
+Toyota,Innova Crysta 2.4 VX MT BSIV,2017.0,151000,Diesel,Manual,Ahmednagar,1575000.0
+Hyundai,i20 1.4 CRDi Anniversary Edition,2017.0,84000,Diesel,Manual,Ahmednagar,635000.0
+Mahindra,XUV500 R W10 FWD,2017.0,68000,Diesel,Manual,Ahmednagar,1125000.0
+MG,Astor Super EX BSVI,2022.0,26484,Petrol,Manual,Ahmednagar,850000.0
+Tata,Nexon XZA Plus (O) AMT,2022.0,5827,Petrol,Automatic,Ahmednagar,925000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2024.0,15000,Diesel,Manual,Ahmednagar,1425000.0
+Maruti,Swift Dzire VDI,2017.0,85000,Diesel,Manual,Ahmednagar,660000.0
+Hyundai,Creta 1.6 CRDi AT SX Plus,2016.0,115000,Diesel,Automatic,Ahmednagar,925000.0
+Hyundai,i20 Sportz 1.4 CRDi,2013.0,56000,Diesel,Manual,Ahmednagar,455000.0
+Maruti,Wagon R VXI BS IV,2011.0,71000,Petrol,Manual,Ahmednagar,290000.0
+Mahindra,Bolero Neo N10 Option,2023.0,30000,Diesel,Manual,Ahmednagar,1150000.0
+Tata,Nexon Creative Plus S,2024.0,10000,Petrol,Manual,Ahmednagar,1350000.0
+Renault,KWID Climber 1.0 MT DT,2021.0,120000,Petrol,Manual,Ahmednagar,400000.0
+Tata,Altroz XZA Plus OS DCT,2025.0,5210,Petrol,Automatic,Ahmednagar,865000.0
+Kia,Seltos HTK Plus G,2020.0,49671,Petrol,Manual,Ahmednagar,995000.0
+Maruti,Baleno Delta,2021.0,44424,Petrol,Manual,Ahmednagar,595000.0
+Renault,Duster 4x4,2014.0,76000,Diesel,Manual,Ahmednagar,595000.0
+Volkswagen,Polo Diesel Comfortline 1.2L,2013.0,70000,Diesel,Manual,Ahmednagar,425000.0
+Maruti,Swift Dzire VDI,2013.0,54000,Diesel,Manual,Ahmednagar,535000.0
+Renault,Duster 85PS Diesel RxL,2013.0,76000,Diesel,Manual,Ahmednagar,465000.00000000006
+Toyota,Innova Crysta 2.4 VX MT BSIV,2017.0,151000,Diesel,Manual,Ahmednagar,1575000.0
+Hyundai,i20 1.4 CRDi Anniversary Edition,2017.0,84000,Diesel,Manual,Ahmednagar,635000.0
+Mahindra,XUV500 R W10 FWD,2017.0,68000,Diesel,Manual,Ahmednagar,1125000.0
+MG,Astor Super EX BSVI,2022.0,26484,Petrol,Manual,Ahmednagar,850000.0
+Tata,Nexon XZA Plus (O) AMT,2022.0,5827,Petrol,Automatic,Ahmednagar,925000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2024.0,15000,Diesel,Manual,Ahmednagar,1425000.0
+Maruti,Swift Dzire VDI,2017.0,85000,Diesel,Manual,Ahmednagar,660000.0
+Hyundai,Creta 1.6 CRDi AT SX Plus,2016.0,115000,Diesel,Automatic,Ahmednagar,925000.0
+Hyundai,i20 Sportz 1.4 CRDi,2013.0,56000,Diesel,Manual,Ahmednagar,455000.0
+Maruti,Wagon R VXI BS IV,2011.0,71000,Petrol,Manual,Ahmednagar,290000.0
+Mahindra,Bolero Neo N10 Option,2023.0,30000,Diesel,Manual,Ahmednagar,1150000.0
+Tata,Nexon Creative Plus S,2024.0,10000,Petrol,Manual,Ahmednagar,1350000.0
+Renault,KWID Climber 1.0 MT DT,2021.0,120000,Petrol,Manual,Ahmednagar,400000.0
+Tata,Altroz XZA Plus OS DCT,2025.0,5210,Petrol,Automatic,Ahmednagar,865000.0
+Kia,Seltos HTK Plus G,2020.0,49671,Petrol,Manual,Ahmednagar,995000.0
+Maruti,Baleno Delta,2021.0,44424,Petrol,Manual,Ahmednagar,595000.0
+Renault,Duster 4x4,2014.0,76000,Diesel,Manual,Ahmednagar,595000.0
+Volkswagen,Polo Diesel Comfortline 1.2L,2013.0,70000,Diesel,Manual,Ahmednagar,425000.0
+Maruti,Swift Dzire VDI,2013.0,54000,Diesel,Manual,Ahmednagar,535000.0
+Renault,Duster 85PS Diesel RxL,2013.0,76000,Diesel,Manual,Ahmednagar,465000.00000000006
+Toyota,Innova Crysta 2.4 VX MT BSIV,2017.0,151000,Diesel,Manual,Ahmednagar,1575000.0
+Hyundai,i20 1.4 CRDi Anniversary Edition,2017.0,84000,Diesel,Manual,Ahmednagar,635000.0
+Mahindra,XUV500 R W10 FWD,2017.0,68000,Diesel,Manual,Ahmednagar,1125000.0
+MG,Astor Super EX BSVI,2022.0,26484,Petrol,Manual,Ahmednagar,850000.0
+Tata,Nexon XZA Plus (O) AMT,2022.0,5827,Petrol,Automatic,Ahmednagar,925000.0
+Mahindra,Thar LX 4WD Hard Top Diesel BSVI,2024.0,15000,Diesel,Manual,Ahmednagar,1425000.0
+Maruti,Swift Dzire VDI,2017.0,85000,Diesel,Manual,Ahmednagar,660000.0
+Hyundai,Creta 1.6 CRDi AT SX Plus,2016.0,115000,Diesel,Automatic,Ahmednagar,925000.0
+Hyundai,i20 Sportz 1.4 CRDi,2013.0,56000,Diesel,Manual,Ahmednagar,455000.0
+Maruti,Wagon R VXI BS IV,2011.0,71000,Petrol,Manual,Ahmednagar,290000.0
+Mahindra,Bolero Neo N10 Option,2023.0,30000,Diesel,Manual,Ahmednagar,1150000.0
+Tata,Nexon Creative Plus S,2024.0,10000,Petrol,Manual,Ahmednagar,1350000.0
+Renault,KWID Climber 1.0 MT DT,2021.0,120000,Petrol,Manual,Ahmednagar,400000.0

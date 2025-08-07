@@ -1,0 +1,207 @@
+{% extends "base.html" %}
+
+{% block title %}Price Prediction - Used Car Price Prediction Engine{% endblock %}
+
+{% block content %}
+<section class="predict-header">
+    <div class="container">
+        <h1>Car Price Prediction</h1>
+        <p>Get an accurate price estimate for your car using our AI-powered model</p>
+    </div>
+</section>
+
+<section class="predict-content">
+    <div class="container">
+        {% if prediction %}
+        <div class="prediction-result">
+            <div class="result-card">
+                <div class="result-image">
+                    <img src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" 
+                         alt="Predicted Car">
+                </div>
+                <div class="result-details">
+                    <div class="result-header">
+                        <h2>🎯 Predicted Price</h2>
+                        <div class="confidence-badge">AI Powered</div>
+                    </div>
+                    <div class="predicted-price">{{ prediction }}</div>
+                    <div class="price-range">
+                        <span class="range-label">Estimated Range:</span>
+                        <span class="range-value">{{ prediction }} ± 15%</span>
+                    </div>
+                    <div class="car-specs">
+                        <div class="spec-item">
+                            <strong>Car:</strong> {{ car_details.Brand_Model }}
+                        </div>
+                        <div class="spec-item">
+                            <strong>Age:</strong> {{ car_details.Car_Age }} years
+                        </div>
+                        <div class="spec-item">
+                            <strong>KM Driven:</strong> {{ "{:,}".format(car_details['KM Driven']|int) }} km
+                        </div>
+                        <div class="spec-item">
+                            <strong>Fuel Type:</strong> {{ car_details['Fuel Type'] }}
+                        </div>
+                        <div class="spec-item">
+                            <strong>Transmission:</strong> {{ car_details.Transmission }}
+                        </div>
+                        <div class="spec-item">
+                            <strong>Location:</strong> {{ car_details.Location }}
+                        </div>
+                    </div>
+                    <div class="result-actions">
+                        <button onclick="showPredictionForm()" class="btn btn-secondary">
+                            <i class="fas fa-calculator"></i>
+                            Predict Another Car
+                        </button>
+                        <a href="{{ url_for('listings') }}" class="btn btn-primary">
+                            <i class="fas fa-search"></i>
+                            Browse Similar Cars
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        <div class="prediction-form" {% if prediction %}style="display: none;"{% endif %} id="predictionForm">
+            <div class="form-header">
+                <h3>🚗 Enter Car Details</h3>
+                <p>Fill in the details below to get an accurate price prediction</p>
+            </div>
+            <form method="POST" class="predict-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="brand_model">Brand Model</label>
+                        <input type="text" name="brand_model" id="brand_model" class="form-input" 
+                               placeholder="e.g., Honda City GXi, Maruti Swift VDi" required list="brand-model-suggestions">
+                        <small class="form-help">Enter exact brand and model (e.g., "Honda City GXi")</small>
+                        <datalist id="brand-model-suggestions">
+                            {% for model in brand_models %}
+                                <option value="{{ model }}"></option>
+                            {% endfor %}
+                        </datalist>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="fuel_type">Fuel Type</label>
+                        <select name="fuel_type" id="fuel_type" class="form-select" required>
+                            <option value="">Select Fuel Type</option>
+                            {% for fuel in fuel_types %}
+                                <option value="{{ fuel }}">{{ fuel }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="transmission">Transmission</label>
+                        <select name="transmission" id="transmission" class="form-select" required>
+                            <option value="">Select Transmission</option>
+                            {% for trans in transmissions %}
+                                <option value="{{ trans }}">{{ trans }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="location">Location</label>
+                        <select name="location" id="location" class="form-select" required>
+                            <option value="">Select Location</option>
+                            {% for location in locations %}
+                                <option value="{{ location }}">{{ location }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="km_driven">KM Driven</label>
+                        <input type="number" name="km_driven" id="km_driven" class="form-input" 
+                               placeholder="e.g., 44000" required min="0">
+                        <small class="form-help">Total kilometers driven</small>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="car_age">Car Age (Years)</label>
+                        <input type="number" name="car_age" id="car_age" class="form-input" 
+                               placeholder="e.g., 5" required min="0" max="30">
+                        <small class="form-help">Age of the car in years</small>
+                    </div>
+                </div>
+
+                <div class="form-submit">
+                    <button type="submit" class="btn btn-primary btn-large">
+                        <i class="fas fa-calculator"></i>
+                        Get Price Prediction
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+<style>
+.form-header {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    border-radius: 15px;
+}
+
+.form-header h3 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+.form-header p {
+    color: #666;
+    margin: 0;
+}
+
+.btn-large {
+    padding: 15px 40px;
+    font-size: 1.1rem;
+}
+
+.form-help {
+    color: #666;
+    font-size: 0.85rem;
+    margin-top: 5px;
+    display: block;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.sample-suggestions {
+    margin-top: 8px;
+}
+
+.sample-tag {
+    display: inline-block;
+    background: #e9ecef;
+    padding: 4px 8px;
+    margin: 2px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.sample-tag:hover {
+    background: #007bff;
+    color: white;
+}
+</style>
+{% endblock %}

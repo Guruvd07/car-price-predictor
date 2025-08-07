@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block title %}Browse Cars - Used Car Price Prediction Engine{% endblock %}
+
+{% block content %}
+<section class="listings-header">
+    <div class="container">
+        <h1>Browse Used Cars</h1>
+        <div class="search-form">
+            <form method="GET" action="{{ url_for('listings') }}">
+                <div class="search-inputs">
+                    <select name="brand" class="form-select">
+                        <option value="">All Brands</option>
+                        {% for brand in brands %}
+                            <option value="{{ brand }}" {% if search_brand == brand.lower() %}selected{% endif %}>
+                                {{ brand }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                    <input type="text" name="model" placeholder="Search model..." 
+                           value="{{ search_model or '' }}" class="form-input">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-search"></i>
+                        Search
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+<section class="listings-content">
+    <div class="container">
+        {% if cars %}
+            <div class="cars-grid">
+                {% for car in cars %}
+                <div class="car-card">
+                    <div class="car-image">
+                        <img src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
+                             alt="{{ car.title }}">
+                        <div class="car-badge">{{ car.fuel_type }}</div>
+                    </div>
+                    <div class="car-details">
+                        <h3 class="car-title">{{ car.title }}</h3>
+                        <div class="car-info">
+                            <div class="info-item">
+                                <i class="fas fa-calendar"></i>
+                                <span>{{ car.year }}</span>
+                            </div>
+                            <div class="info-item">
+                                <i class="fas fa-tachometer-alt"></i>
+                                <span>{{ "{:,}".format(car.km_driven) }} km</span>
+                            </div>
+                            <div class="info-item">
+                                <i class="fas fa-gas-pump"></i>
+                                <span>{{ car.fuel_type }}</span>
+                            </div>
+                            <div class="info-item">
+                                <i class="fas fa-cogs"></i>
+                                <span>{{ car.transmission }}</span>
+                            </div>
+                            <div class="info-item">
+                                <i class="fas fa-map-marker-alt"></i>
+                                <span>{{ car.location }}</span>
+                            </div>
+                        </div>
+                        <div class="car-footer">
+                            <div class="car-price">{{ car.price }}</div>
+                            <button class="btn btn-primary btn-small">View Details</button>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="no-results">
+                <i class="fas fa-car"></i>
+                <h3>Sorry, this car is not available.</h3>
+                <p>Try adjusting your search criteria or browse all available cars.</p>
+                <a href="{{ url_for('listings') }}" class="btn btn-primary">View All Cars</a>
+            </div>
+        {% endif %}
+    </div>
+</section>
+{% endblock %}
