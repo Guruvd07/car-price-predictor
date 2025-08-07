@@ -811,75 +811,240 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .nav-container {
+        height: 60px; /* Slightly reduce navbar height */
+    }
+    .nav-menu {
+        gap: 15px;
+        font-size: 0.9rem;
+    }
+
     .hero-content {
         grid-template-columns: 1fr;
         text-align: center;
         gap: 40px;
+        padding: 40px 20px; /* Add vertical padding */
     }
     
     .hero-title {
         font-size: 2.8rem;
     }
     
+    .hero-subtitle {
+        font-size: 1.1rem; /* Smaller subtitle */
+        margin-bottom: 30px;
+    }
+
     .hero-stats {
         justify-content: center;
         gap: 30px;
+        margin-bottom: 30px;
     }
     
     .car-showcase {
-        transform: none;
+        transform: none; /* Remove 3D transform on mobile */
+        box-shadow: 0 15px 30px rgba(0,0,0,0.2); /* Lighter shadow */
     }
-    
+    .showcase-car {
+        height: 300px; /* Adjust car image height */
+    }
+    .price-badge {
+        padding: 10px 15px; /* Smaller badge */
+        font-size: 0.9rem;
+    }
+    .price-amount {
+        font-size: 1.1rem;
+    }
+
+    .section-header {
+        margin-bottom: 50px; /* Reduce margin */
+    }
+    .section-header h2 {
+        font-size: 2.2rem; /* Smaller section titles */
+    }
+    .section-header p {
+        font-size: 1rem; /* Smaller section subtitle */
+    }
+
+    .features, .popular-brands, .auth-section, .listings-content, .predict-content {
+        padding: 60px 0; /* Reduce general section padding */
+    }
+    .listings-header, .predict-header {
+        padding: 40px 0 30px; /* Reduce header padding */
+    }
+    .footer {
+        padding: 30px 0; /* Reduce footer padding */
+    }
+
+    .features-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Adjust min width for features */
+        gap: 30px;
+    }
+    .feature-card {
+        padding: 40px 20px; /* Adjust feature card padding */
+    }
+    .feature-icon {
+        width: 70px;
+        height: 70px;
+        margin-bottom: 20px;
+    }
+    .feature-icon i {
+        font-size: 1.8rem;
+    }
+    .feature-card h3 {
+        font-size: 1.3rem;
+    }
+    .feature-number {
+        font-size: 1.5rem;
+    }
+
     .search-inputs {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; /* Stack search inputs */
+        gap: 15px;
     }
     
     .cars-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; /* Stack car cards */
     }
-    
+    .car-card {
+        padding-bottom: 20px; /* Add some bottom padding */
+    }
+    .car-details {
+        padding: 20px; /* Adjust car card details padding */
+    }
+    .car-title {
+        font-size: 1.1rem;
+    }
+    .car-info {
+        grid-template-columns: 1fr; /* Stack car info items */
+        gap: 8px;
+    }
+    .car-price {
+        font-size: 1.3rem;
+    }
+
     .result-card {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; /* Stack prediction result image and details */
     }
-    
-    .result-actions {
-        flex-direction: column;
-    }
-    
     .result-image {
-        height: 250px;
+        height: 250px; /* Adjust result image height */
+    }
+    .result-details {
+        padding: 30px; /* Adjust result details padding */
+    }
+    .result-header {
+        margin-bottom: 20px;
+    }
+    .result-details h2 {
+        font-size: 1.5rem;
+    }
+    .predicted-price {
+        font-size: 2.5rem; /* Smaller predicted price */
+    }
+    .price-range {
+        padding: 12px 15px;
+        margin-bottom: 20px;
+    }
+    .car-specs {
+        margin-bottom: 20px;
+    }
+    .result-actions {
+        flex-direction: column; /* Stack action buttons */
+        gap: 10px;
+        margin-top: 20px;
     }
     
+    .prediction-form {
+        padding: 30px; /* Adjust prediction form padding */
+    }
     .form-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; /* Stack form inputs */
+        gap: 20px;
     }
-    
-    .nav-menu {
-        gap: 15px;
-        font-size: 0.9rem;
+    .form-header {
+        padding: 15px;
+        margin-bottom: 20px;
     }
-    
+    .form-header h3 {
+        font-size: 1.3rem;
+    }
+
     .auth-card {
         margin: 20px;
-        padding: 30px;
+        padding: 30px; /* Adjust auth card padding */
+    }
+    .auth-header {
+        margin-bottom: 30px;
+    }
+    .auth-header h2 {
+        font-size: 1.8rem;
     }
 
     .brands-grid {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); /* Adjust min width for brands */
+        gap: 20px;
+    }
+    .brand-card {
+        padding: 20px 10px;
+    }
+    .brand-card img {
+        width: 50px;
+        height: 35px;
     }
 }
 
 @media (max-width: 480px) {
-    .hero-title {
-        font-size: 2rem;
+    .nav-logo a {
+        font-size: 1.3rem; /* Smaller logo */
     }
-    
+    .nav-menu {
+        gap: 10px;
+        font-size: 0.8rem;
+    }
+
+    .hero-title {
+        font-size: 2rem; /* Further reduce hero title */
+    }
+    .hero-subtitle {
+        font-size: 1rem; /* Further reduce hero subtitle */
+    }
+    .stat-number {
+        font-size: 2rem; /* Smaller stats */
+    }
     .hero-buttons {
         flex-direction: column;
         align-items: center;
+        gap: 10px;
     }
-    
+    .btn-large {
+        padding: 15px 30px;
+        font-size: 1rem;
+    }
+    .showcase-car {
+        height: 250px; /* Even smaller car image */
+    }
+
+    .section-header h2 {
+        font-size: 1.8rem; /* Even smaller section titles */
+    }
+    .section-header p {
+        font-size: 0.9rem;
+    }
+
     .predicted-price {
-        font-size: 2rem;
+        font-size: 2rem; /* Even smaller predicted price */
+    }
+    .result-details h2 {
+        font-size: 1.3rem;
+    }
+    .spec-item {
+        font-size: 0.9rem;
+    }
+
+    .auth-card {
+        padding: 25px;
+    }
+    .auth-header h2 {
+        font-size: 1.5rem;
     }
 }
