@@ -8,7 +8,7 @@ User Authentication: Secure login and registration system to access prediction f
 Responsive Design: A clean and intuitive user interface that works well on various devices.
 Autocomplete Suggestions: Smart suggestions for car models in the prediction form to enhance usability.
 🚀 Live Demo
-Experience the application live here: https://car-price-predictor-s3ha.onrender.com/
+Experience the application live here: https://car-price-predictor-1gcq.onrender.com/
 
 🛠️ Technologies Used
 Backend: Python, Flask
